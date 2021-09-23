@@ -1,6 +1,6 @@
 # Daily Planner
 
-![GitHub top language](https://zocartes.github.io/day-planner-homework/)
+[GitHub top](https://zocartes.github.io/day-planner-homework/)
 
 ## Task
 
